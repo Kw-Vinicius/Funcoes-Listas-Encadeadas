@@ -1,6 +1,6 @@
 ﻿# Funcoes-Listas-Encadeadas
 
-Fuções utilizadas:
+Funções utilizadas:
 
  - Inserir elemento na lista ( inicio / fim )
  - Exibir a lista
